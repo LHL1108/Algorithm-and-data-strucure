@@ -12,8 +12,6 @@ package lai10;
     know what is recursion part
 */
 
-import practice.Code01_StringManipulation;
-
 public class Code02_ReverseLinkedListInPairs {
 
     public static ListNode reverseInPairs(ListNode head) {
